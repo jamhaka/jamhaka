@@ -1,6 +1,6 @@
 - 👋 Hi, I’m JAMILU HABU
-- 👀 I’m interested in Web design and Development
-- 🌱 I’m currently learning a Mobile App development
+- 👀 I’m interested in Web design and Web App Development
+- 🌱 I’m currently learning C# and Project Management
 - 💞️ I’m looking to collaborate on anything related Software development
 - 📫 How to reach me +2347013919218, Email : jamiluhabu@gmail.com
 
